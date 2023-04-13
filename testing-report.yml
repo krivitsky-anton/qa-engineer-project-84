@@ -33,15 +33,15 @@
     
 - summary: |
     Фильтрация товаров по минимальной цене
-  status: fail
+  status: pass
     
 - summary: |
     Фильтрация товаров по максимальной цене
-  status: fail
+  status: pass
     
 - summary: |
     Фильтрация товаров по указанному диапазону цен
-  status: fail
+  status: pass
     
 - summary: |
     Просмотр подробной информации о товаре
@@ -49,7 +49,7 @@
       
 - summary: |
     Просмотр подробной информации о товаре на главной странице
-  status: fail
+  status: pass
 
 - summary: |
     Переключение пагинации каталога товаров
@@ -73,11 +73,11 @@
     
 - summary: |
     Удаление товара из корзины
-  status: fail
+  status: pass
          
 - summary: |
     Очистка корзины
-  status: pass
+  status: fail
          
 - summary: |
     Возврат к покупкам после промотра товаров в корзине
